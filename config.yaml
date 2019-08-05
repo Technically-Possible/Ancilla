@@ -1,0 +1,7 @@
+bot:
+  settings:
+    token: ""
+    log_level: DEBUG
+channels:
+  default: waiting-room
+  rules: rules
